@@ -21,7 +21,6 @@ else:
         C -= 1
         count += 1
 
-
     # col palindromes
     for j in range(C):
         for i in range(N):

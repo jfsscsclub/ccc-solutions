@@ -2,6 +2,7 @@
 A repository of CCC questions and solutions that were reviewed during John Fraser CS Club's lessons.
 
 ## Years
+- [2023](/2023/)
 - [2022](/2022/)
 - [2021](/2021/)
 - [2020](/2020/)

@@ -1,4 +1,4 @@
-# CCC '22 J4/S1 - Aritro Saha
+# CCC '23 J4/S1 - Aritro Saha
 c = int(input())
 
 # Gathering input, True represents a black triangle and False represents a white triangle
